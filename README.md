@@ -8,4 +8,6 @@
 - 😃 Pronouns: He/His.
 
  [![Aravind's GitHub stats](https://github-readme-stats.vercel.app/api?username=aravind273&show_icons=true&theme=radical)](https://github.com/aravind273) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravind273)](https://github.com/aravind273)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aravind273)](https://github.com/aravind273) <br>
+![Profile views](https://gpvc.arturio.dev/aravind273)
+
