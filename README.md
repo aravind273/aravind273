@@ -1,4 +1,4 @@
-### Hola, I'm Aravind Eramalla! 👋
+### Hey, I'm Aravind Eramalla! 👋
 
 ### About Me 🚀
 - 🔭 I’m currently final year student at Lovely Professional university and upcoming software engineer at Amdocs.
