@@ -1,7 +1,7 @@
 ### Hey, I'm Aravind Eramalla! 👋
 
 ### About Me 🚀
-- 🔭 I’m currently final year student at Lovely Professional university and upcoming software engineer at Amdocs.
+- 🔭 Incoming software engineer at Amdocs.
 - 🌱 I’m currently learning JavaScript.
 - 💻 I am passionate about Android Development,Full Stack Web Developement and Competitive Programming.
 - 📪 How to reach me: [Linkedin](https://www.linkedin.com/in/aravinderamalla/)
