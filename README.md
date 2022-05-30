@@ -1,8 +1,7 @@
 ### Hey, I'm Aravind Eramalla! 👋
 
 ### About Me 🚀
-- 🔭 Incoming software engineer at Amdocs.
-- 🌱 I’m currently learning JavaScript.
+- 🔭 Associate software engineer at Amdocs.
 - 💻 I am passionate about Android Development,Full Stack Web Developement and Competitive Programming.
 - 📪 How to reach me: [Linkedin](https://www.linkedin.com/in/aravinderamalla/)
 - 😃 Pronouns: He/His.
